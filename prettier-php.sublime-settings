@@ -1,3 +1,4 @@
 {
-	"php_bin": "php-cs-fixer"
+	"php_bin": "php-cs-fixer",
+	"rules": "@Symfony"
 }
